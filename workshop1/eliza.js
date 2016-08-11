@@ -210,7 +210,7 @@ var rules = {
     "You are thinking of a special person",
   ],
   "~*x always ~*y": [
-    "Can you think of a specific example?",
+    "you suck very very much ",
     "When?",
     "What incident are you thinking of?",
     "Really--always?",
